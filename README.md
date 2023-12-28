@@ -1,0 +1,1 @@
+Creatign Sales💹 api systems with Go fiber network🛜 with proper Database deployment and managing all Cashier Application Controller functionalities with JWT Token Authentication for Securing👮 and AAA (Authentication, Authorisation and Accounting) 🛡️🛡️
